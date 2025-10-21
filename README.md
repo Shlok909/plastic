@@ -1,2 +1,1 @@
-# plastic
-MY client
+the-plastic-project
